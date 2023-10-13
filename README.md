@@ -2,4 +2,5 @@
 
 - Course Examples
 - Documents
+- Designs
 - Exercises
